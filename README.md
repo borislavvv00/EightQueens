@@ -2,7 +2,7 @@
 Simple solution to eight queens problem.
 
 At the beginning are enter the X and Y coordinates of the first queen then the program prints\
-chess board where are placed eight queen, so that no two queens threaten each other.
+chess board where are placed eight queens, so that no two queens threaten each other.
 
 Here is an example : 
 
